@@ -10,3 +10,4 @@ Highlights:
 
 As a proof of concept, CodeGlide was used to create an ERP and ETL platforms.
 
+License: Copyrighted, do not distribute or reuse.
